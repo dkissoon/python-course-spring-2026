@@ -1,0 +1,18 @@
+Personal Budget Report
+Generated: 2026-02-28 13:22:54
+
+Total Income:  $1,500.00
+Total Expenses:$800.00
+Net Balance:   $700.00
+
+Expenses by Category:
+  Home: $500.00
+  Groceries: $200.00
+  Electric: $100.00
+
+Highest spend category: Home
+
+Expense Details:
+  - Rent | Home | $500.00
+  - Utility | Electric | $100.00
+  - Food | Groceries | $200.00
