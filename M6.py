@@ -1,3 +1,4 @@
+# Assignment 6 - Object-Oriented Programming
 class Book:
     def __init__(self, title, author, isbn):
         self.title = title
@@ -55,7 +56,7 @@ def main():
     book2 = Book("1984", "George Orwell", "2222")
     ebook1 = EBook("Python Basics", "John Smith", "3333", "PDF")
 
-    student1 = Student("Derek")
+    student1 = Student("David")
 
     print(book1)
     print(book2)
@@ -71,6 +72,6 @@ def main():
     print()
 
     book1.return_book()
-
+#    student1.show_books()
 
 main()
